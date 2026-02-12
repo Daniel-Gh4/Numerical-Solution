@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Numerical-Solution.git/static/css/main.ae891ad0.css",
-    "main.js": "/Numerical-Solution.git/static/js/main.ba59faec.js",
-    "static/js/453.49029d93.chunk.js": "/Numerical-Solution.git/static/js/453.49029d93.chunk.js",
-    "index.html": "/Numerical-Solution.git/index.html",
-    "main.ae891ad0.css.map": "/Numerical-Solution.git/static/css/main.ae891ad0.css.map",
-    "main.ba59faec.js.map": "/Numerical-Solution.git/static/js/main.ba59faec.js.map",
-    "453.49029d93.chunk.js.map": "/Numerical-Solution.git/static/js/453.49029d93.chunk.js.map"
+    "main.css": "/Numerical-Solution/static/css/main.ae891ad0.css",
+    "main.js": "/Numerical-Solution/static/js/main.35db6ed9.js",
+    "static/js/453.49029d93.chunk.js": "/Numerical-Solution/static/js/453.49029d93.chunk.js",
+    "index.html": "/Numerical-Solution/index.html",
+    "main.ae891ad0.css.map": "/Numerical-Solution/static/css/main.ae891ad0.css.map",
+    "main.35db6ed9.js.map": "/Numerical-Solution/static/js/main.35db6ed9.js.map",
+    "453.49029d93.chunk.js.map": "/Numerical-Solution/static/js/453.49029d93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae891ad0.css",
-    "static/js/main.ba59faec.js"
+    "static/js/main.35db6ed9.js"
   ]
 }
